@@ -9,8 +9,5 @@
         <module name="publictools" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="publictools" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
